@@ -1,4 +1,4 @@
-# react-native-instagram-share
+# react-native-instagram-share-ios
 react-native interface to open instagram camera (iOS)
 
 
