@@ -1,0 +1,29 @@
+{
+  "name": "react-native-instagram-share-ios",
+  "version": "0.0.1",
+  "description": "A react-native module which opens instagram camera screen (iOS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anray/react-native-instagram-share-ios.git"
+  },
+  "keywords": [
+    "react-native",
+    "instagram",
+    "share",
+    "camera",
+    "image"
+  ],
+  "author": "anray",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/anray/react-native-instagram-share-ios/issues"
+  },
+  "homepage": "https://github.com/anray/react-native-instagram-share-ios#readme",
+  "devDependencies": {
+    "react-native": "^0.14.1"
+  }
+}
