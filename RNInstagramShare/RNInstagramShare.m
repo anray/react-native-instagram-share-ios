@@ -12,7 +12,7 @@
 RCT_EXPORT_MODULE()
 
 
-RCT_EXPORT_METHOD(share:) {
+RCT_EXPORT_METHOD(share) {
     
     NSURL *instagramURL       = [NSURL URLWithString:[NSString stringWithFormat:@"instagram://camera"]];
     
